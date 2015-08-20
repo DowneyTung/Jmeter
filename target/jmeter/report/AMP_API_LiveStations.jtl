@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="445" lt="119" ts="1440077532582" s="true" lb="Z100" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1392">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="119" lt="119" ts="1440077532582" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/1469" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="325" lt="325" ts="1440077532702" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/1469" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1633"/>
+</httpSample>
+<httpSample t="216" lt="99" ts="1440077533103" s="true" lb="106.7 Lite fm" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1474">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="99" lt="99" ts="1440077533103" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/1477" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="114" lt="114" ts="1440077533205" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/1477" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1715"/>
+</httpSample>
+<httpSample t="84" lt="35" ts="1440077533320" s="true" lb="The Lounge" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="922">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="35" lt="35" ts="1440077533320" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6492" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="49" lt="49" ts="1440077533355" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6492" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1162"/>
+</httpSample>
+<httpSample t="93" lt="40" ts="1440077533405" s="true" lb="Radio New Zealand Concert" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1102">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="40" lt="40" ts="1440077533405" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6867" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="53" lt="53" ts="1440077533445" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6867" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1343"/>
+</httpSample>
+<httpSample t="89" lt="35" ts="1440077533498" s="true" lb="KCRW 89.9 On Air" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="989">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="35" lt="35" ts="1440077533498" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/5255" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="53" lt="53" ts="1440077533534" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/5255" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1229"/>
+</httpSample>
+<httpSample t="86" lt="37" ts="1440077533588" s="true" lb="WNYC-FM News, Talk &amp; Culture" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="998">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="37" lt="37" ts="1440077533588" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/5068" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="49" lt="49" ts="1440077533625" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/5068" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1238"/>
+</httpSample>
+<httpSample t="87" lt="38" ts="1440077533675" s="true" lb="97.3 WMEE	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="918">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="38" lt="38" ts="1440077533675" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/5758" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="49" lt="49" ts="1440077533713" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/5758" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1158"/>
+</httpSample>
+<httpSample t="89" lt="38" ts="1440077533763" s="true" lb="Houston Public Media News" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1063">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="38" lt="38" ts="1440077533763" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6621" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="51" lt="51" ts="1440077533801" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6621" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1304"/>
+</httpSample>
+<httpSample t="87" lt="39" ts="1440077533853" s="true" lb="opbmusic	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="935">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="39" lt="39" ts="1440077533853" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6634" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="48" lt="48" ts="1440077533892" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6634" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1175"/>
+</httpSample>
+<httpSample t="88" lt="37" ts="1440077533940" s="true" lb="KJAZZ 88.1	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="929">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="37" lt="37" ts="1440077533940" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6655" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="51" lt="51" ts="1440077533977" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6655" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1169"/>
+</httpSample>
+<httpSample t="84" lt="33" ts="1440077534029" s="true" lb="95.5 PLJ	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="949">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="33" lt="33" ts="1440077534029" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/5371" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="51" lt="51" ts="1440077534062" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/5371" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1189"/>
+</httpSample>
+<httpSample t="90" lt="39" ts="1440077534114" s="true" lb="POWER106" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="978">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="39" lt="39" ts="1440077534114" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6045" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="50" lt="50" ts="1440077534154" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6045" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1218"/>
+</httpSample>
+<httpSample t="86" lt="36" ts="1440077534205" s="true" lb="B98.5 FM	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="965">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="36" lt="36" ts="1440077534205" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/5887" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="49" lt="49" ts="1440077534242" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/5887" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1205"/>
+</httpSample>
+<httpSample t="88" lt="40" ts="1440077534292" s="true" lb="Truth Radio 1340	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="902">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="40" lt="40" ts="1440077534292" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6609" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="48" lt="48" ts="1440077534332" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6609" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1142"/>
+</httpSample>
+<httpSample t="95" lt="43" ts="1440077534380" s="true" lb="630 CHED	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="871">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="43" lt="43" ts="1440077534380" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6269" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="51" lt="51" ts="1440077534424" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6269" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1111"/>
+</httpSample>
+<httpSample t="85" lt="34" ts="1440077534476" s="true" lb="Azucar	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="932">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="34" lt="34" ts="1440077534476" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6559" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="51" lt="51" ts="1440077534510" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6559" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1172"/>
+</httpSample>
+<httpSample t="106" lt="55" ts="1440077534562" s="true" lb="KEXP 90.3	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="959">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="55" lt="55" ts="1440077534562" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6589" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="50" lt="50" ts="1440077534618" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6589" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1199"/>
+</httpSample>
+<httpSample t="83" lt="34" ts="1440077534669" s="true" lb="Faith And Friends Radio" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="984">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="34" lt="34" ts="1440077534669" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6650" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="49" lt="49" ts="1440077534703" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6650" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1224"/>
+</httpSample>
+<httpSample t="126" lt="33" ts="1440077534752" s="true" lb="True Oldies Channel	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="928">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="33" lt="33" ts="1440077534752" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6691" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="93" lt="93" ts="1440077534785" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6691" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1168"/>
+</httpSample>
+<httpSample t="89" lt="39" ts="1440077534879" s="true" lb="talkSPORT	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="975">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="39" lt="39" ts="1440077534879" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6588" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="50" lt="50" ts="1440077534918" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6588" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1215"/>
+</httpSample>
+<httpSample t="87" lt="38" ts="1440077534969" s="true" lb="This American Life 24/7	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="979">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="38" lt="38" ts="1440077534969" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6456" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="49" lt="49" ts="1440077535007" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6456" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1219"/>
+</httpSample>
+<httpSample t="80" lt="32" ts="1440077535057" s="true" lb="WFUV On-Air	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="955">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="32" lt="32" ts="1440077535057" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6430" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="47" lt="47" ts="1440077535090" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6430" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1195"/>
+</httpSample>
+<httpSample t="85" lt="33" ts="1440077535138" s="true" lb="96F-FM	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="924">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="33" lt="33" ts="1440077535138" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6708" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="51" lt="51" ts="1440077535172" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6708" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1164"/>
+</httpSample>
+<httpSample t="95" lt="35" ts="1440077535223" s="true" lb="Newstalk ZB Wellington" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="929">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="35" lt="35" ts="1440077535223" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6188" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="60" lt="60" ts="1440077535258" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6188" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1169"/>
+</httpSample>
+<httpSample t="99" lt="46" ts="1440077535319" s="true" lb="97.7 Kicker FM" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1070">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="46" lt="46" ts="1440077535319" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6767" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="53" lt="53" ts="1440077535365" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6767" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1311"/>
+</httpSample>
+<httpSample t="87" lt="34" ts="1440077535419" s="true" lb="X96.3 FM New York	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1059">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="34" lt="34" ts="1440077535419" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/5173" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="53" lt="53" ts="1440077535453" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/5173" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1300"/>
+</httpSample>
+<httpSample t="125" lt="75" ts="1440077535507" s="true" lb="The Current	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1032">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="75" lt="75" ts="1440077535507" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6291" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="50" lt="50" ts="1440077535582" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6291" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1273"/>
+</httpSample>
+<httpSample t="92" lt="38" ts="1440077535632" s="true" lb="Universal 92.1 FM	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="976">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="38" lt="38" ts="1440077535632" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6508" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="54" lt="54" ts="1440077535670" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6508" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1216"/>
+</httpSample>
+<httpSample t="159" lt="108" ts="1440077535724" s="true" lb="Immaculate Heart Radio AM1620	" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="870">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="108" lt="108" ts="1440077535724" s="true" lb="http://api2.iheart.com/api/v2/content/liveStations/6407" rc="301" rm="Moved Permanently" tn="" dt="text" by="207"/>
+  <httpSample t="51" lt="51" ts="1440077535832" s="true" lb="https://api2.iheart.com/api/v2/content/liveStations/6407" rc="200" rm="OK" tn="AMP Live Stations(PROD) 1-1" dt="text" by="1110"/>
+</httpSample>
+
+</testResults>
