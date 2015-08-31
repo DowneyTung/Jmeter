@@ -1114,7 +1114,7 @@
                 <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="974711917">&quot;markets&quot;:</stringProp>
-                <stringProp name="1988778545">&quot;genres&quot;:[{&quot;id&quot;:12,&quot;name&quot;:&quot;Rock&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:true}],&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Clear Channel Australia&quot;,&quot;provider&quot;:&quot;Clear Channel Australia&quot;,&quot;website&quot;:&quot;www.96.com.au&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;96FMPerth&quot;}}]}</stringProp>
+                <stringProp name="-565349543">&quot;genres&quot;:[{&quot;id&quot;:12,&quot;name&quot;:&quot;Rock&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:true},{&quot;id&quot;:18,&quot;name&quot;:&quot;80s &amp; 90s Hits&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:false},{&quot;id&quot;:3,&quot;name&quot;:&quot;Classic Rock&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:false}],&quot;feeds&quot;:{&quot;site_id&quot;:&quot;0&quot;},&quot;format&quot;:&quot;Prov_Clear Channel Australia&quot;,&quot;provider&quot;:&quot;Clear Channel Australia&quot;,&quot;website&quot;:&quot;www.96.com.au&quot;,&quot;social&quot;:{&quot;twitter&quot;:&quot;96FMPerth&quot;}}]}</stringProp>
                 <stringProp name="-2019426821">&quot;pls_stream&quot;:&quot;http://player.arn.com.au/iheart/FRN7_96FM.pls&quot;</stringProp>
                 <stringProp name="-1600133030">&quot;rtmp_stream&quot;:&quot;rtmp://cp335677.live.edgefcs.net/live/FRN7_96FM@10297&quot;</stringProp>
                 <stringProp name="975571088">&quot;name&quot;:&quot;PERTH-WAU&quot;</stringProp>
@@ -1206,10 +1206,10 @@
             <ResponseAssertion guiclass="AssertionGui" testclass="ResponseAssertion" testname="Response Assertion" enabled="true">
               <collectionProp name="Asserion.test_strings">
                 <stringProp name="1840478825">&quot;id&quot;:6767,&quot;score&quot;:0.0,&quot;name&quot;:&quot;97.7 Kicker FM&quot;,&quot;responseType&quot;:&quot;LIVE&quot;,&quot;description&quot;:&quot;Auburn and Opelika’s Best Country&quot;,&quot;band&quot;:&quot;FM&quot;,&quot;callLetters&quot;:&quot;WKKR-FM&quot;,&quot;logo&quot;:&quot;http://radioedit.iheart.com/service/img/nop()/assets/images/54285e09-d29f-4f9d-9a2b-9b83e8b50940.png&quot;,&quot;freq&quot;:&quot;97.7&quot;,&quot;countries&quot;:&quot;US&quot;</stringProp>
-                <stringProp name="-1033223019">&quot;streams&quot;:{&quot;secure_rtmp_stream&quot;:&quot;rtmp://cp293157.live.edgefcs.net/live/Aub_AL_WKKR-FM_OR@1022&quot;,&quot;shoutcast_stream&quot;:&quot;http://wkkr-fm.akacast.akamaistream.net/7/55/293157/v1/auth.akacast.akamaistream.net/wkkr-fm&quot;}</stringProp>
+                <stringProp name="1592867497">&quot;streams&quot;:</stringProp>
                 <stringProp name="1492799339">&quot;isActive&quot;:true,&quot;modified&quot;</stringProp>
                 <stringProp name="-1129264713">&quot;markets&quot;:[{&quot;name&quot;:&quot;AUBURN-AL&quot;</stringProp>
-                <stringProp name="1314177118">&quot;genres&quot;:[{&quot;id&quot;:5,&quot;name&quot;:&quot;Country&quot;,&quot;sortIndex&quot;:1000,&quot;primary&quot;:true}],&quot;esid&quot;:&quot;4818&quot;,&quot;feeds&quot;:{&quot;site_id&quot;:&quot;15334&quot;,&quot;feed&quot;:&quot;wkkr-fm.app.clearchannel.com&quot;},&quot;format&quot;:&quot;COUNTRY&quot;,&quot;provider&quot;:&quot;Clear Channel&quot;,&quot;website&quot;:&quot;www.kickerfm.com&quot;,&quot;social&quot;:{},&quot;callLetterAlias&quot;:&quot;WKKR-FM&quot;,&quot;callLetterRoyalty&quot;:&quot;WKKR-FM&quot;}]}</stringProp>
+                <stringProp name="-1504837250">&quot;genres&quot;:[{&quot;id&quot;:5,&quot;name&quot;:&quot;Country&quot;,&quot;sortIndex&quot;:247,&quot;primary&quot;:true}],&quot;esid&quot;:&quot;4818&quot;,&quot;feeds&quot;:{&quot;site_id&quot;:&quot;15334&quot;,&quot;feed&quot;:&quot;wkkr-fm.app.clearchannel.com&quot;},&quot;format&quot;:&quot;COUNTRY&quot;,&quot;provider&quot;:&quot;Clear Channel&quot;,&quot;website&quot;:&quot;www.kickerfm.com&quot;,&quot;social&quot;:{},&quot;callLetterAlias&quot;:&quot;WKKR-FM&quot;,&quot;callLetterRoyalty&quot;:&quot;WKKR-FM&quot;}]}</stringProp>
                 <stringProp name="-252833886">&quot;marketId&quot;:&quot;562&quot;</stringProp>
                 <stringProp name="1367537449">&quot;sortIndex&quot;:1000</stringProp>
                 <stringProp name="153109154">&quot;city&quot;:&quot;Auburn&quot;</stringProp>
@@ -1220,6 +1220,9 @@
                 <stringProp name="74941194">&quot;countryId&quot;:1</stringProp>
                 <stringProp name="-1096637010">&quot;origin&quot;:true</stringProp>
                 <stringProp name="-1989650042">&quot;primary&quot;:true</stringProp>
+                <stringProp name="-1373924486">&quot;secure_rtmp_stream&quot;:&quot;rtmp://cp293157.live.edgefcs.net/live/Aub_AL_WKKR-FM_OR@1022&quot;</stringProp>
+                <stringProp name="688004684">&quot;shoutcast_stream&quot;:&quot;http://wkkr-fm.akacast.akamaistream.net/7/55/293157/v1/auth.akacast.akamaistream.net/wkkr-fm&quot;</stringProp>
+                <stringProp name="0"></stringProp>
                 <stringProp name="0"></stringProp>
               </collectionProp>
               <stringProp name="Assertion.test_field">Assertion.response_data</stringProp>
